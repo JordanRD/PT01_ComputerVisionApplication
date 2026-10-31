@@ -1,0 +1,12 @@
+[project]
+name = "pt01-computervisionapplication"
+version = "0.1.0"
+description = "Computer Vision Application: Object Detection and Tracking with YOLOv8 and ByteTrack"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "lapx>=0.13.0",
+    "opencv-python>=5.0.0.93",
+    "pandas>=3.1.0",
+    "ultralytics>=8.4.194",
+]
